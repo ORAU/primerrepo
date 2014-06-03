@@ -1,1 +1,4 @@
-ESte es el archivo gusto de la rama gusto
+Este es el archivo gusto de la rama gusto
+pero lo clone, lo modifique con rama orau
+y lo voy a subir como rama orau y luego lo
+mergere con master para ver que ondas
